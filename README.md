@@ -1,16 +1,14 @@
 # MyPageHelper
 A page divider which can help developers divide arraylist
 
-MyTest.java:
+
 
 package org.example;
-
 import org.junit.Test;
 import vip.dulaogou.utils.MyPageHelper;
 import vip.dulaogou.utils.MyPageInfo;
 import java.util.ArrayList;
 import java.util.List;
-
 public class MyTest {
     @Test
     public void test01(){
